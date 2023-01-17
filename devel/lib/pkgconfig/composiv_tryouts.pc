@@ -1,0 +1,8 @@
+prefix=/home/mehmetc/catkin_ws/devel
+
+Name: composiv_tryouts
+Description: Description of composiv_tryouts
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
